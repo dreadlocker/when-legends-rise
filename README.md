@@ -1,3 +1,4 @@
+# SPA project created using Vue JS, Vue CLI
 # https://dreadlocker.github.io/WhenLegendsRise2/
 ## How to start the project
 1. Open terminal and write in it the commands below
