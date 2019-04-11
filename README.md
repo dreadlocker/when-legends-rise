@@ -1,3 +1,4 @@
+# https://dreadlocker.github.io/WhenLegendsRise2/
 ## How to start the project
 1. Open terminal and write in it the commands below
 2. git clone https://github.com/dreadlocker/when-legends-rise.git
